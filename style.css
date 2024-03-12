@@ -37,3 +37,11 @@ p {
 p + p {
 	font-weight: bold;
 }
+
+h1, h2 {
+	color: yellow;
+}
+
+h1 {
+	font-style: italic;
+}
